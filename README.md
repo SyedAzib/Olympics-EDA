@@ -59,7 +59,7 @@ pip install -r requirements.txt
 The notebook generates several plots to better understand Olympic history:
 
 - Athletes participation over year
-  Visualizations/oly-1.png
+![Athletes participation](Visualizations/oly-1.png)  
 - Top 10 countries by medal count  
 - Distribution of athlete ages  
 - Gender participation trends  
