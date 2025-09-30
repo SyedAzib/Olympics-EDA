@@ -13,12 +13,10 @@ Olympics-Analysis/
 ├── Olympics-EDA.ipynb    # Main analysis notebook
 ├── requirements.txt       # Dependencies
 ├── README.md              # Project documentation
-├── athlete_events.csv     # Olympic history dataset (not included here)
+├── athlete_events.csv     # Olympic history dataset 
 └── visualizations/        # Saved plots from the analysis
 ```
 
-⚠️ **Note:** `athlete_events.csv` is not included here to keep the repo lightweight.  
-You can download it from Kaggle (see dataset link below).
 
 ---
 
@@ -67,18 +65,9 @@ The notebook generates several plots to better understand Olympic history:
 - Sports with the highest number of events  
 - Emerging vs declining sports across Olympics  
 
-All plots can be saved in the `visualizations/` folder.
 
 ---
 
-## 📂 Dataset
-
-The dataset is available on Kaggle:  
-👉 [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)
-
-Download `athlete_events.csv` from Kaggle and place it in the repo root.
-
-Dataset © Kaggle — for educational and research use only.
 
 ---
 
