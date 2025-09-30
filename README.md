@@ -16,6 +16,11 @@ Olympics-Analysis/
 ├── athlete_events.csv     # Olympic history dataset 
 └── visualizations/        # Saved plots from the analysis
 ```
+## 📊 Dataset
+
+- **Source:** [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+- **Size:** ~60 MB, 271,116 rows × 15 columns  
+- **Columns:** `ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal`
 
 
 ---
