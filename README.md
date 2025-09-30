@@ -18,9 +18,9 @@ Olympics-Analysis/
 ```
 ## 📊 Dataset
 
-- **Source:** [120 years of Olympic history: athletes and results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
-- **Size:** ~60 MB, 271,116 rows × 15 columns  
-- **Columns:** `ID, Name, Sex, Age, Height, Weight, Team, NOC, Games, Year, Season, City, Sport, Event, Medal`
+- **Source:** [120 Years of Olympic History: Athletes and Results](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results)  
+- **Size:** ~60 MB | **Shape:** 271,116 rows × 15 columns  
+- **Note:** You need a [Kaggle account](https://www.kaggle.com) to download the dataset.  
 
 
 ---
